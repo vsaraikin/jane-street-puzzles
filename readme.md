@@ -1,9 +1,15 @@
-# Jane Street Puzzle Oct 2024
+# Jane Street Puzzle Solvers
 
-## How to Run?
+## Solutions
+
+### October 2024:
 
 ```shell
- g++ -std=c++20 -O2 -o solution oct-2024.cpp && ./solution
+g++ -std=c++20 -O2 -o solution oct-2024.cpp && ./solution
 ```
 
-Answer: 2,13,22,a1,b3,c1,d3,c5,e4,f6,a6,b4,a2,c3,d1,e3,f1
+### January 2025:
+
+```shell
+clang++ -std=c++20 -O2 -o solution jan-2025.cpp && ./solution
+```
